@@ -1,11 +1,13 @@
+using CleanArchMvc.Domain.Entities;
 using CleanArchMvc.Domain.Validation;
 
 namespace CleanArchMvc.Domain.entities
 {
-    public sealed class Category
+    public sealed class Category : Base
     {
         public int Id { get; private set; }    
         public string Name { get; private set; }
+        public ICollection<Product> Products {get; set;}
 
         public Category(string name)
         {
@@ -20,8 +22,10 @@ namespace CleanArchMvc.Domain.entities
             Name = name;
         }
 
-
-        public ICollection<Product> Products {get; set;}
+        public void Update(string name)
+        {
+            ValidationDomain(name);
+        }
 
         private void ValidationDomain(string name)
         {
