@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eFCCpm/GYl49zHU+AaCeDp7qmyj4y/tEWPCv8yAvsMgru3wqgfOYgWDm1qbyDwve/590K7b8aZlm6kwz8QeaqA==",
+  "dgSpecHash": "ou67W2M11yzx8VkR4kqoLhAAtHqtbbJyFjk0FkUfobJpQfgmi28kg3CfE/Q+s5Cg5P4w6uIM0AEbatTvnIbkeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\CleanArchMvc\\CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj",
+  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\Clean Architecture\\CleanArchMvc\\CleanArchMvc.WebUi\\CleanArchMvc.WebUi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

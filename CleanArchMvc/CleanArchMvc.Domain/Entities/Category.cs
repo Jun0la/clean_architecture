@@ -12,7 +12,7 @@ namespace CleanArchMvc.Domain.entities
         public Category(string name)
         {
             DomainExceptionValidation.When(Id < 0, "Name is required");
-            Id = id;
+            Id = Id;
             ValidationDomain(name);
         }
         

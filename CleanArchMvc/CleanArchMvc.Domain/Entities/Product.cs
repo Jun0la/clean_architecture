@@ -1,4 +1,6 @@
 using CleanArchMvc.Domain.Entities;
+using CleanArchMvc.Domain.Validation;
+using System.Data;
 
 namespace CleanArchMvc.Domain.entities
 {

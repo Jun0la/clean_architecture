@@ -1,0 +1,6 @@
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain.Tests\bin\Release\net7.0\CoverletSourceRootsMapping
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Release\net7.0\CleanArchMvc.Domain.Tests.csproj.AssemblyReference.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Release\net7.0\CleanArchMvc.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Release\net7.0\CleanArchMvc.Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Release\net7.0\CleanArchMvc.Domain.Tests.AssemblyInfo.cs
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Release\net7.0\CleanArchMvc.Domain.Tests.csproj.CoreCompileInputs.cache

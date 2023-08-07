@@ -1,0 +1,5 @@
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Release\net7.0\CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Release\net7.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Release\net7.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Release\net7.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Release\net7.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
