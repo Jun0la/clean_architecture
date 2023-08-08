@@ -5,13 +5,12 @@ namespace CleanArchMvc.Domain.entities
 {
     public sealed class Category : Base
     {
-        public int Id { get; private set; }    
         public string Name { get; private set; }
         public ICollection<Product> Products {get; set;}
 
         public Category(string name)
         {
-            DomainExceptionValidation.When(Id < 0, "Name is required");
+            DomainExceptionValidation.When(Id <= 0, "Invalid ID.");
             Id = Id;
             ValidationDomain(name);
         }
@@ -29,9 +28,9 @@ namespace CleanArchMvc.Domain.entities
 
         private void ValidationDomain(string name)
         {
-            DomainExceptionValidation.When(string.IsNullOrEmpty(name), "Invalid Name");
+            DomainExceptionValidation.When(string.IsNullOrEmpty(name), "Invalid Name, field is required.");
 
-            DomainExceptionValidation.When(name.Length < 3, "Invalid Name is required");
+            DomainExceptionValidation.When(name.Length < 3, "Invalid Name");
 
             Name = name;
         }

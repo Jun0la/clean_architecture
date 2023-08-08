@@ -40,19 +40,21 @@ namespace CleanArchMvc.Domain.entities
 
             DomainExceptionValidation.When(image.Length > 250, "Invalid image name, too long, maximum 250 characters");
 
-            Name = name; 
+            Name = name;
             Description = description;
             Price = price;
             Stock = stock;
-            Image = image; 
+            Image = image;
 
         }
 
-        public Update(string name, string description, decimal price, int stock, string image, int categoryId)
-        {
-            ValidationDomain(name, description, price, stock, image);
-            CategoryId = categoryId;
-        }
+        
+        //public Update(string name, string description, decimal price, int stock, string image, int categoryId)
+        //{
+           // ValidationDomain(name, description, price, stock, image);
+            //CategoryId = categoryId;
+        //}
+        
 
         //navegation types 
         public int CategoryId {get; set;}
