@@ -4,7 +4,7 @@ using System.Data;
 
 namespace CleanArchMvc.Domain.entities
 {
-    public sealed class Product : Base
+    public sealed class Product : EntityBase
     {   
         public string Name { get; private set; }
         public string  Description { get; private set; }    

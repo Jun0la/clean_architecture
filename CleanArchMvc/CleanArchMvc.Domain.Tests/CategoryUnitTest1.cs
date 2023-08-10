@@ -24,20 +24,20 @@ namespace CleanArchMvc.Domain.Tests
         public void CreateCategory_ShortNameValue_DomainExceptionShortName()
         {
             Action action = () => new Category(1, "XD");
-            action.Should().Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>().WithMessage("Invalid Name");
+            action.Should().Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>().WithMessage("Invalid name, too short, minimum 3 characters");
         }
 
         [Fact(DisplayName = "Empty")]
         public void CreateCategory_MissingNameValue_DomainExceptionRequiredName()
         {
             Action action = () => new Category(1, "");
-            action.Should().Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>().WithMessage("Invalid Name, field is required.");
+            action.Should().Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>().WithMessage("Invalid name.Name is required");
         }
         [Fact(DisplayName = "Null")]
         public void CreateCategory_NullNameValue_DomainExceptionInvalidName()
         {
             Action action = () => new Category(1, null);
-            action.Should().Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>().WithMessage("");
+            action.Should().Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>().WithMessage("Invalid name.Name is required");
         }
     }
 }

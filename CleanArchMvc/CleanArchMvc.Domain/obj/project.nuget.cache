@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J6flZ7AKK93iIo92Q6Vx4lhVbyZc17KxTeyjORPK4N2u1RDI1X0FHcIZbaJFtDPYH2vSaUDzoMCoGDxLMKCvyQ==",
+  "dgSpecHash": "CoP/23Xj9dtjwaLDrG/tINTuJVgWe4qLQhw1jUqXg3X+nVj6lopojY3OH7CmSvIYvk4LOuTsTXeXAaQH1Sjvsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\Clean Architecture\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\C#\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

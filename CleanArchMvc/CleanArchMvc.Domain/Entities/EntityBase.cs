@@ -2,7 +2,7 @@ using CleanArchMvc.Domain.Validation;
 
 namespace CleanArchMvc.Domain.Entities
 {
-    public abstract class Base
+    public abstract class EntityBase
     {
         public int Id {get; protected set;}
     }

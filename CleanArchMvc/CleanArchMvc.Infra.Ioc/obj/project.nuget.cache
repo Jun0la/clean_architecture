@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jMtBgbjtdBV+4EjTJLX3pZo3f/3j3ybQmx6GQ8ARhw61mpYxdblEVuZquUvJrYsYNK1DvXU7LKuAA1/eAmfCkg==",
+  "dgSpecHash": "0V+JXL6QOfjZYyovCR4MusDODKhAVy9b9pGjd9gm+fdx7q1xwWEROHnHWuB6pX4NJZYkBqx7DTlqdTd1D7Obrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\Clean Architecture\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj",
+  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\C#\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

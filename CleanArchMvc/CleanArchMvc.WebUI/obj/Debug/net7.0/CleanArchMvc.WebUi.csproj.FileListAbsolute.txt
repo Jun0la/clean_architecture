@@ -38,3 +38,43 @@ C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanA
 C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.pdb
 C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.genruntimeconfig.cache
 C:\Users\ju-sh\OneDrive\Área de Trabalho\Clean Architecture\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\ref\CleanArchMvc.WebUi.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\appsettings.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.WebUi.staticwebassets.runtime.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.WebUi.exe
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.WebUi.deps.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.WebUi.runtimeconfig.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.WebUi.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.WebUi.pdb
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.Application.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.Domain.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.Infra.Data.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.Infra.Ioc.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.Infra.Ioc.pdb
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.Application.pdb
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.Domain.pdb
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\CleanArchMvc.Infra.Data.pdb
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.csproj.AssemblyReference.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.AssemblyInfoInputs.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.AssemblyInfo.cs
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.csproj.CoreCompileInputs.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.RazorAssemblyInfo.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.RazorAssemblyInfo.cs
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\staticwebassets\msbuild.CleanArchMvc.WebUi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\staticwebassets\msbuild.build.CleanArchMvc.WebUi.props
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CleanArchMvc.WebUi.props
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CleanArchMvc.WebUi.props
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\scopedcss\bundle\CleanArchMvc.WebUi.styles.css
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\scopedcss\projectbundle\CleanArchMvc.WebUi.bundle.scp.css
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.csproj.CopyComplete
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\refint\CleanArchMvc.WebUi.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.pdb
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.genruntimeconfig.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\ref\CleanArchMvc.WebUi.dll

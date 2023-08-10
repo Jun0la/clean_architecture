@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QrV+b2Su5OwA5f+NvFwgKM1uy8Ox955FU7E8PRyX6P6EogKKVN3bzo1Pws+ZE3p2M2/OCBD/su7JaPTXxlG9Gg==",
+  "dgSpecHash": "Mej/wRaPGVmgcitsKQfNU3NKGg1t1zT0iHwsVlzg89BkKGV/wA2qxrfARzxU+AX38TLspFKAqF5fNkQcDxw9/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\Clean Architecture\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\C#\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
