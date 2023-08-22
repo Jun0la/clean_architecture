@@ -590,7 +590,7 @@
           "CleanArchMvc.Infra.Data": "1.0.0"
         },
         "runtime": {
-          "CleanArchMvc.Infra.Ioc.dll": {}
+          "CleanArchMvc.Infra.IoC.dll": {}
         }
       }
     }

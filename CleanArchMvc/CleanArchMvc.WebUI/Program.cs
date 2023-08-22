@@ -1,11 +1,16 @@
 using CleanArchMvc.Infra.Ioc;
-using FluentAssertions.Common;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 
-//builder.Services.AddInfrastructure (Configuration);
+var configuration = new ConfigurationBuilder()
+    .SetBasePath(builder.Environment.ContentRootPath)
+    .AddJsonFile("appsettings.json")
+    .Build();
+
+builder.Services.AddInfrastructure (configuration);
 
 
 var app = builder.Build();
