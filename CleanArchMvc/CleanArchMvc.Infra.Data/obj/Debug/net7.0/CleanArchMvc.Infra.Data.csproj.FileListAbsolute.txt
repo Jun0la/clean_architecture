@@ -28,3 +28,5 @@ C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.Infra.Dat
 C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\refint\CleanArchMvc.Infra.Data.dll
 C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.pdb
 C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\ref\CleanArchMvc.Infra.Data.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net7.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\C#\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache

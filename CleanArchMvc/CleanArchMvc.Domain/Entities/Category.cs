@@ -23,7 +23,12 @@ namespace CleanArchMvc.Domain.entities
         {
             ValidateDomain(name);
         }
+
+
+
         public ICollection<Product> Products { get; set; }
+
+
 
         private void ValidateDomain(string name)
         {

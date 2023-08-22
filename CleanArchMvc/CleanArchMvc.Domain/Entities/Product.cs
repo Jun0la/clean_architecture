@@ -4,6 +4,9 @@ using System.Data;
 
 namespace CleanArchMvc.Domain.entities
 {
+
+
+
     public sealed class Product : EntityBase
     {   
         public string Name { get; private set; }
@@ -12,10 +15,12 @@ namespace CleanArchMvc.Domain.entities
         public int Stock { get; private set; }
         public string Image { get; private set; }
 
+
         public Product(string name, string description, decimal price, int stock, string image)
         {
             ValidationDomain(name, description, price, stock, image);
         }
+
 
         public Product(int id, string name, string description, decimal price, int stock, string image)
         {
@@ -23,6 +28,8 @@ namespace CleanArchMvc.Domain.entities
             Id = id;
             ValidationDomain(name, description, price, stock, image);
         }
+
+
 
         private void ValidationDomain(string name, string description, decimal price, int stock, string image)
         {
@@ -45,6 +52,7 @@ namespace CleanArchMvc.Domain.entities
             Price = price;
             Stock = stock;
             Image = image;
+
         }
 
         
