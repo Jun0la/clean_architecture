@@ -1136,6 +1136,9 @@
       "CleanArchMvc.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10"
+        },
         "compile": {
           "bin/placeholder/CleanArchMvc.Domain.dll": {}
         },
@@ -3527,7 +3530,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
+            "suppressParent": "None",
             "target": "Package",
             "version": "[7.0.10, )"
           },

@@ -672,6 +672,9 @@
         }
       },
       "CleanArchMvc.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10"
+        },
         "runtime": {
           "CleanArchMvc.Domain.dll": {}
         }
